@@ -1,0 +1,7 @@
+MANIFEST
+build/
+packhalp.egg-info/
+*.pyc
+*.pyo
+*.egg
+dist
